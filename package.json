@@ -1,0 +1,20 @@
+{
+  "name": "reducechallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.15",
+    "jest": "24.8.0",
+    "mockdate": "2.0.3"
+  },
+  "keywords": [],
+  "author": "Darot",
+  "license": "ISC"
+}
